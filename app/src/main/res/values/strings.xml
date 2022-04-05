@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Acerca de</string>
+    <string name="title_activity_info">Informacion</string>
+    <string name="title_home">Precios</string>
+    <string name="title_dashboard">Opiniones</string>
+    <string name="title_notifications">Experiencia</string>
+</resources>
