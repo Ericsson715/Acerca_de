@@ -4,11 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/msafu/AndroidStudioProjects/Acercade/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.106" />
+        <entry key="..\:/Users/msafu/AndroidStudioProjects/Acercade/app/src/main/res/layout/activity_grupo_especialistas.xml" value="0.16" />
         <entry key="..\:/Users/msafu/AndroidStudioProjects/Acercade/app/src/main/res/layout/activity_info.xml" value="0.10572916666666667" />
         <entry key="..\:/Users/msafu/AndroidStudioProjects/Acercade/app/src/main/res/layout/activity_main.xml" value="0.2" />
-        <entry key="..\:/Users/msafu/AndroidStudioProjects/Acercade/app/src/main/res/layout/fragment_experiencia.xml" value="0.1" />
+        <entry key="..\:/Users/msafu/AndroidStudioProjects/Acercade/app/src/main/res/layout/fragment_experiencia.xml" value="0.152" />
         <entry key="..\:/Users/msafu/AndroidStudioProjects/Acercade/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/msafu/AndroidStudioProjects/Acercade/app/src/main/res/layout/fragment_opiniones.xml" value="0.1" />
         <entry key="..\:/Users/msafu/AndroidStudioProjects/Acercade/app/src/main/res/layout/fragment_precios.xml" value="0.1" />
+        <entry key="..\:/Users/msafu/AndroidStudioProjects/Acercade/app/src/main/res/layout/grid_view.xml" value="0.1" />
         <entry key="..\:/Users/msafu/AndroidStudioProjects/Acercade/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
       </map>
     </option>
@@ -18,5 +21,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.152" />
+      </ProjectState>
+    </option>
   </component>
 </project>
