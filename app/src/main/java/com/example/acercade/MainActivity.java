@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void info(View view) {
-        Intent i = new Intent (MainActivity.this, Info.class);
+        Intent i = new Intent (MainActivity.this, Grupo_especialistas.class);
         startActivity(i);
     }
 }

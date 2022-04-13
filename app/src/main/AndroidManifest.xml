@@ -10,7 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AcercaDe">
         <activity
-            android:name=".Grupo_especialistas"
+            android:name=".About"
+            android:exported="false" />
+        <activity
+            android:name=".Dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Ver_info"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,11 +28,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Info"
-            android:exported="false"
-            android:label="@string/title_activity_info" />
-        <activity
-            android:name=".MainActivity"
+            android:name=".Grupo_especialistas"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
