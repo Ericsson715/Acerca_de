@@ -4,20 +4,20 @@
 
     <item
         android:id = "@+id/home"
-        android:title="Home"
-        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Precios"
+        android:icon="@drawable/precio"
         />
 
 
     <item
         android:id = "@+id/dashboard"
-        android:title="Dashboard"
-        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Opiniones"
+        android:icon="@drawable/opinion"
         />
 
     <item
         android:id="@+id/about"
-        android:icon="@drawable/ic_notifications_black_24dp"
-        android:title="About" />
+        android:icon="@drawable/experiencia"
+        android:title="Experiencia" />
 
 </menu>

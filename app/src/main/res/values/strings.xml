@@ -4,4 +4,10 @@
     <string name="title_home">Precios</string>
     <string name="title_dashboard">Opiniones</string>
     <string name="title_notifications">Experiencia</string>
+    <string name="titulo">Dra. Leticia Paredes</string>
+    <string name="Titulo_especialista">Dra. Leticia de Paredes</string>
+    <string name="formacion">Formacion:</string>
+    <string name="nom">Maria pineda</string>
+    <string name="amabilidad">Muy amable la doctora, aclara todas las dudas, excelente trato al detalle</string>
+
 </resources>
